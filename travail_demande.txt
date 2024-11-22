@@ -1,0 +1,48 @@
+==> Travail demandé :
+    
+    1. Introduction / Sélection des données (2 points)
+        ― Identifiez au moins un jeu de données pour le projet. Décrivez vos motivations, le processus de recherche.
+
+            Idée première de sujet :
+                    La classification du sexe d'une personne en fonction de sa tête.
+                     - Motivation : 
+                        Savoir si un modèle maison à la capacité de dissérner le sexe d'un individu grâce à son visage.
+                        Possibilité d'utilisation de ce modèle sur des proches.
+                     - processus de recherche :
+                        Trouver un jeu de données avec des visages (étiquetté ou non)
+                        Entrainer les modèles
+                        Selectionner
+                        Prédire sur les proches
+
+
+        ― Utilisez l’IA pour explorer des sources de données ouvertes,
+            générer des idées de problématiques ou identifier des angles d’analyse inédits.
+        
+        ― Analyse critique : L’outil a-t-il proposé des idées pertinentes ou redondantes ?
+        
+        
+        ― Faites le choix définitif du jeu de données. Expliquez ce choix.
+
+    2. Exploration et traitement des données (3 points)
+        ― Identifiez et décrivez les caractéristiques des données. Effectuez les prétraitements nécessaires à ce stade.
+        ― Demandez à l’IA de critiquer constructivement votre approche.
+        ― Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.
+
+    3. Modélisation et évaluation (9 points)
+
+        ― Choisissez et construisez des modèles ou pipelines adaptés au problème.
+        ― Tester les modèles avec une méthodologie rigoureuse.
+        ― Évaluer les performances avec des métriques appropriées.
+        ― Demandez à l’IA de critiquer constructivement vos choix et votre approche.
+        ― Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.
+
+    4. Communication des résultats (3 points)
+        ― Produisez une analyse claire des résultats pour un public non technique.
+        ― Demandez à l’IA une analyse similaire.
+        ― Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.
+
+    5. Retour d’expérience (3 points)
+        ― L’IA vous a-t-elle été utile ? 
+                Quels défis avez-vous rencontrés ? 
+                Comment améliorer son intégration dans ce type de projet ? 
+                Voyez-vous des considérations éthiques ?

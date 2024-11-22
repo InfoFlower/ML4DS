@@ -1,0 +1,26 @@
+Il y a deux livrables. Les dates limites de dépôt sont indiquées sur Moodle.
+
+    1. Livrable préliminaire
+        ― Archive contenant vos données et un notebook présentant les premières
+            manipulations de ces données. A défaut de fichier de données, le notebook
+            peut également contenir un lien vers une version pérenne du jeu de données.
+        
+        ― Possibilité de changer de données pour le livrable final, à condition de justifier
+            ce choix.
+
+        ― Si le livrable préliminaire n’est pas rendu une pénalité de 10% sera
+            décomptée de votre note de projet.
+
+    2. Livrable final
+        ― Archive contenant tous vos fichiers (données incluses ou lien pérenne)
+        
+        ― Le notebook final doit inclure toutes les analyses, les modèles et votre
+            réflexion sur l’utilisation de l’IA générative.
+
+        ― Une version HTML exportée du notebook est requise.
+            Le travail, et notamment le fichier Notebook, doit être soigné, structuré et clair. Si des
+            références sont utilisées il faut les citer, de même pour du code provenant de sources
+            diverses. Les éléments provenant de ChatGPT (ou autres) doivent être clairement identifiés.
+
+Afin de pallier à un éventuel souci d’exécution du notebook, il est demandé d’inclure une
+exportation HTML du notebook (File > Download as ou File > Export Notebook As). 
