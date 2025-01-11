@@ -1,0 +1,6 @@
+Failed to process 20170529052232.html: 'utf-8' codec can't decode byte 0xbb in position 7443: invalid start byte
+Failed to process 20180125124728.html: 'utf-8' codec can't decode byte 0xc8 in position 5186: invalid continuation byte
+Failed to process 20180125141226.html: 'utf-8' codec can't decode byte 0xc8 in position 5186: invalid continuation byte
+Failed to process 20180202150825.html: 'utf-8' codec can't decode byte 0xc8 in position 5186: invalid continuation byte
+Failed to process done: [Errno 13] Permission denied: 'wayback_downloads/done'
+Failed to process failed: [Errno 13] Permission denied: 'wayback_downloads/failed'
