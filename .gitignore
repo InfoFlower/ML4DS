@@ -1,3 +1,4 @@
 .env_mlds
 TreeTagger/
 wayback_downloads/
+__pycache__/
