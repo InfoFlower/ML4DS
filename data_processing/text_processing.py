@@ -9,7 +9,7 @@ import pandas as pd
 def proc_make_csv():
     lemmatizer = WordNetLemmatizer()
     stop_words = set(stopwords.words('english'))
-    tagger=treetaggerwrapper.TreeTagger(TAGLANG ="en",TAGDIR='TreeTagger')
+    tagger=treetaggerwrapper.TreeTagger(TAGLANG="en", TAGDIR='TreeTagger', TAGPARFILE='english.par')
 
     directory = r'data\html'
     files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]

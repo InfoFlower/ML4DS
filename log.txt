@@ -2,5 +2,11 @@ Failed to process 20170529052232.html: 'utf-8' codec can't decode byte 0xbb in p
 Failed to process 20180125124728.html: 'utf-8' codec can't decode byte 0xc8 in position 5186: invalid continuation byte
 Failed to process 20180125141226.html: 'utf-8' codec can't decode byte 0xc8 in position 5186: invalid continuation byte
 Failed to process 20180202150825.html: 'utf-8' codec can't decode byte 0xc8 in position 5186: invalid continuation byte
+Failed to process 20180313183210.html: 'utf-8' codec can't decode byte 0xc8 in position 5186: invalid continuation byte
+Failed to process 20180425043916.html: 'utf-8' codec can't decode byte 0xbb in position 5131: invalid start byte
+Failed to process 20180425043919.html: 'utf-8' codec can't decode byte 0xbb in position 5131: invalid start byte
+Failed to process 20180511050208.html: 'utf-8' codec can't decode byte 0xaf in position 5131: invalid start byte
+Failed to process 20180511050210.html: 'utf-8' codec can't decode byte 0xaf in position 5131: invalid start byte
+Failed to process 20180603014038.html: 'utf-8' codec can't decode byte 0xc8 in position 5444: invalid continuation byte
 Failed to process done: [Errno 13] Permission denied: 'wayback_downloads/done'
 Failed to process failed: [Errno 13] Permission denied: 'wayback_downloads/failed'
