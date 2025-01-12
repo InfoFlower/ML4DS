@@ -1,3 +1,14 @@
-wayback-machine-scraper
+requests
+mlflow
 pandas
 sklearn
+os
+datetime
+logging
+numpy
+bs4
+re
+treetaggerwrapper
+nltk
+sys
+time
