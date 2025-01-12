@@ -64,3 +64,5 @@ Nous répondrons partie par partie
 ### Faites le choix définitif du jeu de données. Expliquez ce choix.
 
 On décide finalement d'utiliser les données Binance sur le prix du bitcoin par rapport au dollars. Nous utiliserons les données de [Binance news](https://news.binance.com) jour par jour grâce à [WaybackMachine](https://web.archive.org/). Pour les données manquantes, nous utiliserons un KNN pour prédire le cluster de la date indiquée. Enfin on pourra utiliser les techniques de prédictions connues pour les données marchées ou faire un pipline classique d'entrainement et de test du modèle.
+# Page suivante/Précedente
+[MAIN](../README.md)/[DATA PROCESSING](DATA_PROC.md)
