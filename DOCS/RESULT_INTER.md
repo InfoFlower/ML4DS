@@ -49,6 +49,7 @@ Dans l'ensemble :
     - 'RMSE': 0.09549287420375932,
     - 'MAE': 0.062075381236736435,
     - 'Precision': 0.8274397939842713
+      
       Ici on a de très bonne metrics, certainement dû à un sur-entrainement. Pourtant voici les hyperparamêtre : criterion='entropy', max_depth=3, min_samples_leaf=4. Ils devraient pourtant permettre de ne pas trop over-fitter les données.
 **Voici la visualisation des prédictions des modèles regressors :**
 
