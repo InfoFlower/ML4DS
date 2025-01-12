@@ -1,7 +1,9 @@
 # Exploration et traitement des données
-## Identifiez et décrivez les caractéristiques des données. Effectuez les
-prétraitements nécessaires à ce stade.
-
+[Charactéristiques](##characteristiques-et-pretraitements)
+[Avis de l'IA](#retour-ia)
+[Analyse et modification](##analyse-et-modification)
+## Charactéristiques et prétraitements
+Identifiez et décrivez les caractéristiques des données. Effectuez les prétraitements nécessaires à ce stade.
 1. Caractéristiques des données de marché :
 
     - Open time: The timestamp (in milliseconds) indicating when the candlestick period starts.
@@ -37,8 +39,8 @@ prétraitements nécessaires à ce stade.
         Nous voulons qu'un mot n'apparaisse pas dans au moins une des pages à travers le temps (pour éviter les mots du type "login", utilisé par le site comme mot technique pour se connecter.) Ensuite on veut que le mot ai été utilisé au moins une fois dans 50% des pages récupérées.
     On créé ensuite l'AFC avec ces mots séléctionnés. On utilise une HCPC pour créer des cluster pour enfin les réinjecter dans les données grâce à une jointure sur la date.
     
-## Demandez à l’IA de critiquer constructivement votre approche.
-
+## Retour IA
+Demandez à l’IA de critiquer constructivement votre approche.
 ### Caractéristiques des Données de Marché
 
 #### Points Forts
@@ -82,5 +84,5 @@ prétraitements nécessaires à ce stade.
 - Validation de la Jointure :
     Il serait utile de valider la jointure en vérifiant la cohérence des données combinées. Par exemple, vérifier que les dates correspondent bien entre les deux jeux de données.
 
-― Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en
-fonction.
+## Analyse et modification
+Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.
