@@ -1,7 +1,7 @@
 # Exploration et traitement des données
-1. [Charactéristiques](##characteristiques-et-pretraitements)
+1. [Charactéristiques](#characteristiques-et-pretraitements)
 2. [Avis de l'IA](#retour-ia)
-3. [Analyse et modification](##analyse-et-modification)
+3. [Analyse et modification](#analyse-et-modification)
 ## Charactéristiques et prétraitements
 Identifiez et décrivez les caractéristiques des données. Effectuez les prétraitements nécessaires à ce stade.
 1. Caractéristiques des données de marché :
