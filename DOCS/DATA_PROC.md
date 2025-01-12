@@ -88,3 +88,6 @@ Demandez à l’IA de critiquer constructivement votre approche.
 **Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.**
 Le résultat permettant de mettre en lumière certains manquemant de la docs. Les données manquantes seront soit supprimé si trop importante soit seront imputées grâces à un KNN.
 Certaines améliorations potentielles sont superflues (gestion des synonymes)
+
+# Page suivante/Précedente
+[INTRODUCTION](INTRO.md)/[DATA MODELISATION](DATA_MOD.md)
