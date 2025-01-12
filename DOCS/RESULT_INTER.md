@@ -5,7 +5,8 @@
 3. [Commentaire](#commentaire)
 ## Analyse des résultats
 **Produisez une analyse claire des résultats pour un public non technique.**
-
+1. [Résultats du clustering](#résultats-du-clustering)
+2. [Résultats des modèles](#résultats-des-modèles)
 ### Résultats du clustering
 
 Les axes représentent bien l'inertie du jeu de données :
@@ -25,7 +26,25 @@ Nous sommes satisfait par les résultats de l'AFC et utilisons les clusters. Voi
 - Cluster 2 : Le renouveaux, avec des mots comme cryptomonnaies, revolution et trading, ce sont des jours où les posts sont vers le future.
 - Cluster 3 : Mixte, avezc des mots comme blockchain et gouvernements, ce sont des jours ou il n'y a pas qu'un type de posts.
 
-### Voilà maintenant les résultats des modèles :
+### Résultats des modèles
+**Ici nous exposerons nos résultats et les analyses**
+
+L'ensemble des résultats est dans le [notebook modélisation](../modelisation.ipynb). Ici, nous n'exposeront pas les résultats. 
+Dans l'ensemble : 
+- Le réseau de neurones n'a pas réussi à avoir des bonnes prédictions que ce soit en problème classifier ou regressor. Le peu de données fait que le modèle n'arrivait pas à généraliser
+  - Résultats du modèle classifier sur l'augmentation du prix du BTC :
+    - 'R2': -0.9428733696290785, ==> Aberrant
+    - 'RMSE': 0.6953011639636968,
+    - 'MAE': 0.48344370860927155,
+    - 'Precision': 0.5165562913907285
+    - 'f1_score' : 0.626916524701874
+- Le modèle Logit à produit des résultats moyen mais au dessus de l'aléatoire. Ce qui montre qu'avec peu de données, il reste meilleur qu'un réseau de neurone.
+  - Résultats :
+    - 
+- Les modèles du type decision tree ont eu de très bon résultat.
+
+**Voici la visualisation de leurs prédictions :**
+
 
 ## Analyse des résultats par l'IA
 **Demandez à l’IA une analyse similaire.**
