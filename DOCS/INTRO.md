@@ -3,8 +3,8 @@
 1. Jeu de données utilisé :
    - Les données marché du BitCoin jour par jour depuis 17 08 2017 (Début des données de l'API binance)
    - Les données web de [News Bitcoin](https://news.bitcoin.com) grâce à [WayBackMachine](https://archive.org/help/wayback_api.php)
-        A partir du 18 05 2023 les données sont corrompues, les pages webs ne sont pas accessibles.
-   Nous aurons alors les données du 17 août 2017 au 18 mai 2023 pour entrainer et tester notre modèle.
+   
+      A partir du 18 05 2023 les données sont corrompues, les pages webs ne sont pas accessibles. Nous aurons alors les données du 17 août 2017 au 18 mai 2023 pour entrainer et tester notre modèle.
 
 2. Motivations :
     - Création manuelle du jeu de données
