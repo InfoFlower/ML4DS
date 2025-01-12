@@ -90,10 +90,14 @@ Performance : Les métriques sont très bonnes, mais il y a un risque de sur-ent
 - Réseau de Neurones : Ce modèle n'a pas été efficace en raison du manque de données. Il n'a pas pu apprendre correctement à partir des données disponibles.
 - Modèle Logit : Ce modèle a montré des performances acceptables, meilleures que le hasard. Il est plus adapté pour des jeux de données limités.
 - Arbre de Décision : Ce modèle a obtenu les meilleurs résultats, mais il y a un risque de sur-entraînement. Cela signifie que le modèle pourrait être trop adapté aux données d'entraînement et moins performant sur de nouvelles données.
+  
 **Conclusion**
+
 En résumé, les modèles de type arbre de décision ont montré les meilleures performances pour prédire les mouvements du prix du Bitcoin. Cependant, il est important de surveiller le risque de sur-entraînement. Le modèle logistique a également montré des résultats acceptables, tandis que le réseau de neurones n'a pas été efficace en raison du manque de données. Pour améliorer les performances, il serait bénéfique de collecter plus de données et d'explorer des techniques de régularisation pour éviter le sur-entraînement.
+
 ## Commentaire
 **Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.**
+
 L'IA a proposer une analyse plutôt similaire. Les metrics du modèle final nous conviennent. Pas de modifications à effectuer. En sommes, l'IA à mieux expliquer que moi l'implication de ces metrics. Je ne suis pas un très bon pédagogue.
 
 # Page suivante/Précedente
