@@ -1,8 +1,8 @@
 # Modélisation et évaluation 
 On décris ici notre séléction de modèle.
 1. [Choix du modèle](#choix-du-modèle)
-2. [Test des modèle](#test-des-modèles)
-3. [Evaluation des modèle](#évaluation)
+2. [Test des modèles](#test-des-modèles)
+3. [Evaluation des modèle](#evaluation)
 4. [Critique de l'IA](#critique-de-lia)
 5. [Reflexion sur l'IA](#reflexion-sur-lia)
 
@@ -70,3 +70,10 @@ L'IA a permis de mettre en lumière les points oubliés lors de l'explication de
     Déjà précisé.
 - Hyperparamètres :
     Déjà précisé.
+- Métriques Supplémentaires :
+  Ce sont des bonnes suggestions de la part de l'IA, on ajoutera le RMSE et MAE pour avoir d'autres metrics. L'ajout de metrics de sera pas pertinent sachant qu'on a déjà la matrice de confusion. Elle construit les autres. 
+- Interprétation des Résultats :
+  L'interprétation de ces metrics est trivial, meilleur ils sont, meilleur sera le gain de l'algorithme de trading.
+
+# Page suivante/Précedente
+[DATA PROCESSING](DATA_PROC.md)/[INTERPRETATION DES RESULTATS](RESULT_INTER.md)
