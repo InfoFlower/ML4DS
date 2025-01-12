@@ -69,5 +69,10 @@ Failed to process 20191204202642.html: 'utf-8' codec can't decode byte 0xc8 in p
 Failed to process 20191204202644.html: 'utf-8' codec can't decode byte 0xc8 in position 5403: invalid continuation byte
 Failed to process 20191204202646.html: 'utf-8' codec can't decode byte 0xc8 in position 5403: invalid continuation byte
 Failed to process 20200107105400.html: 'utf-8' codec can't decode byte 0xbb in position 5401: invalid start byte
+Failed to process 20201223233215.html: 'utf-8' codec can't decode byte 0xbb in position 7018: invalid start byte
+Failed to process 20230406153552.html: 'utf-8' codec can't decode byte 0xc8 in position 7773: invalid continuation byte
+Failed to process 20230406153601.html: 'utf-8' codec can't decode byte 0xc8 in position 7773: invalid continuation byte
+Failed to process 20230406161301.html: 'utf-8' codec can't decode byte 0xc8 in position 7773: invalid continuation byte
+Failed to process 20230406161402.html: 'utf-8' codec can't decode byte 0xc8 in position 7773: invalid continuation byte
 Failed to process done: [Errno 13] Permission denied: 'wayback_downloads/done'
 Failed to process failed: [Errno 13] Permission denied: 'wayback_downloads/failed'
