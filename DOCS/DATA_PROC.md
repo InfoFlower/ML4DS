@@ -86,7 +86,8 @@ Demandez à l’IA de critiquer constructivement votre approche.
 
 ## Analyse et modification
 **Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.**
-Le résultat permettant de mettre en lumière certains manquemant de la docs. Les données manquantes seront soit supprimé si trop importante soit seront imputées grâces à un KNN.
+
+Le résultat permettant de mettre en lumière certains manquemant de la docs. Les données manquantes seront soit supprimé si trop importante soit seront imputées grâces à un KNN, il n'y en avait pas énormément et cela aurait ajouté de la compléxité et du temps.
 Certaines améliorations potentielles sont superflues (gestion des synonymes)
 
 # Page suivante/Précedente
