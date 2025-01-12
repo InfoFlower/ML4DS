@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/bf743012fe6e4d8e9684306777f23cdb/artifacts
+end_time: 1736712894355
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: bf743012fe6e4d8e9684306777f23cdb
+run_name: defiant-fish-622
+run_uuid: bf743012fe6e4d8e9684306777f23cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736712894277
+status: 3
+tags: []
+user_id: lenovo

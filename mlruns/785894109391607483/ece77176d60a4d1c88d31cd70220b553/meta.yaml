@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/ece77176d60a4d1c88d31cd70220b553/artifacts
+end_time: 1736713322272
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: ece77176d60a4d1c88d31cd70220b553
+run_name: legendary-hound-797
+run_uuid: ece77176d60a4d1c88d31cd70220b553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736713322189
+status: 3
+tags: []
+user_id: lenovo

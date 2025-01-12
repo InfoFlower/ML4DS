@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/769e533283404c0d8218f74517401fc2/artifacts
+deleted_time: 1736707432236
+end_time: 1736707239582
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 769e533283404c0d8218f74517401fc2
+run_name: useful-croc-821
+run_uuid: 769e533283404c0d8218f74517401fc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736707239381
+status: 3
+tags: []
+user_id: lenovo

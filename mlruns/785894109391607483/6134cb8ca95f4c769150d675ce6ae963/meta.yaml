@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/6134cb8ca95f4c769150d675ce6ae963/artifacts
+deleted_time: 1736692413769
+end_time: 1736691911171
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 6134cb8ca95f4c769150d675ce6ae963
+run_name: crawling-deer-464
+run_uuid: 6134cb8ca95f4c769150d675ce6ae963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736691910906
+status: 3
+tags: []
+user_id: lenovo

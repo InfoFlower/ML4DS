@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/fdf4f9d46a7a4a5fa919926c9f2110e0/artifacts
+end_time: 1736713362756
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: fdf4f9d46a7a4a5fa919926c9f2110e0
+run_name: blushing-colt-877
+run_uuid: fdf4f9d46a7a4a5fa919926c9f2110e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736713362625
+status: 3
+tags: []
+user_id: lenovo

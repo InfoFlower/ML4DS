@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/09719988018d4a0b8270a63e46f93444/artifacts
+deleted_time: 1736689867210
 end_time: 1736622027421
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 09719988018d4a0b8270a63e46f93444
 run_name: defiant-conch-103
 run_uuid: 09719988018d4a0b8270a63e46f93444

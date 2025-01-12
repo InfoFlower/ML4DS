@@ -6,7 +6,7 @@ import pandas as pd
 import mlflow as mf
 from sklearn.model_selection import train_test_split
 logging.getLogger('matplotlib').setLevel(logging.WARNING)
-logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s', level=logging.DEBUG)
+logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s', level=logging.WARNING)
 from mlflow.models import infer_signature
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error

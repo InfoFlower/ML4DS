@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/f4f52c78b85a40d4a8091ea865807672/artifacts
+deleted_time: 1736689867156
 end_time: 1736624157355
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f4f52c78b85a40d4a8091ea865807672
 run_name: upset-newt-780
 run_uuid: f4f52c78b85a40d4a8091ea865807672

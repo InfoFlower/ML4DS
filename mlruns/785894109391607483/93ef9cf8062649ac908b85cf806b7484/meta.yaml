@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/93ef9cf8062649ac908b85cf806b7484/artifacts
+deleted_time: 1736706632779
+end_time: 1736705426707
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 93ef9cf8062649ac908b85cf806b7484
+run_name: abrasive-hog-907
+run_uuid: 93ef9cf8062649ac908b85cf806b7484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736705426611
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/447e955534b44519b140ae8970e752ad/artifacts
+end_time: 1736712628681
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 447e955534b44519b140ae8970e752ad
+run_name: rare-croc-390
+run_uuid: 447e955534b44519b140ae8970e752ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736712628594
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/dae5949395dc4c8793cabeb9f1809bf9/artifacts
+deleted_time: 1736707432250
+end_time: 1736707108449
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: dae5949395dc4c8793cabeb9f1809bf9
+run_name: gentle-ram-873
+run_uuid: dae5949395dc4c8793cabeb9f1809bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736707108275
+status: 3
+tags: []
+user_id: lenovo

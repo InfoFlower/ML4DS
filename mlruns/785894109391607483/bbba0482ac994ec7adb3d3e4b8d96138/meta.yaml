@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/bbba0482ac994ec7adb3d3e4b8d96138/artifacts
+end_time: 1736707733172
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: bbba0482ac994ec7adb3d3e4b8d96138
+run_name: zealous-hog-920
+run_uuid: bbba0482ac994ec7adb3d3e4b8d96138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736707732969
+status: 3
+tags: []
+user_id: lenovo

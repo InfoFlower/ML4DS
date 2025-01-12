@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/5d2ca58081d748cb8172324c7e376366/artifacts
+deleted_time: 1736689867221
 end_time: 1736623753018
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5d2ca58081d748cb8172324c7e376366
 run_name: capricious-conch-221
 run_uuid: 5d2ca58081d748cb8172324c7e376366

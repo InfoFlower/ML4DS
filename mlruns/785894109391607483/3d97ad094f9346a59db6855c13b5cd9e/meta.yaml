@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/3d97ad094f9346a59db6855c13b5cd9e/artifacts
+deleted_time: 1736706632803
+end_time: 1736692489443
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 3d97ad094f9346a59db6855c13b5cd9e
+run_name: popular-crab-750
+run_uuid: 3d97ad094f9346a59db6855c13b5cd9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736692489252
+status: 3
+tags: []
+user_id: lenovo

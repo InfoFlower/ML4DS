@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/daff81b2b841435b8522b531ccc0b55d/artifacts
+deleted_time: 1736707432239
+end_time: 1736707337884
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: daff81b2b841435b8522b531ccc0b55d
+run_name: efficient-flea-825
+run_uuid: daff81b2b841435b8522b531ccc0b55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736707337747
+status: 3
+tags: []
+user_id: lenovo

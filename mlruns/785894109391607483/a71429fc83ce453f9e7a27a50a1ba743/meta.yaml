@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/a71429fc83ce453f9e7a27a50a1ba743/artifacts
+end_time: 1736707717003
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: a71429fc83ce453f9e7a27a50a1ba743
+run_name: youthful-mouse-110
+run_uuid: a71429fc83ce453f9e7a27a50a1ba743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736707716811
+status: 3
+tags: []
+user_id: lenovo

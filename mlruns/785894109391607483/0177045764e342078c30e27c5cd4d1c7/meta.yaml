@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/0177045764e342078c30e27c5cd4d1c7/artifacts
+deleted_time: 1736689867212
 end_time: 1736622015409
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0177045764e342078c30e27c5cd4d1c7
 run_name: merciful-dolphin-491
 run_uuid: 0177045764e342078c30e27c5cd4d1c7

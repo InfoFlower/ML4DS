@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/407d13830146474a98de7e0c1fe1cf3d/artifacts
+end_time: 1736713328539
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 407d13830146474a98de7e0c1fe1cf3d
+run_name: classy-eel-894
+run_uuid: 407d13830146474a98de7e0c1fe1cf3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736713328384
+status: 3
+tags: []
+user_id: lenovo

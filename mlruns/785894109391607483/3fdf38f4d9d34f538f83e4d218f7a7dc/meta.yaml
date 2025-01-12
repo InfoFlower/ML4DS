@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/3fdf38f4d9d34f538f83e4d218f7a7dc/artifacts
+end_time: 1736711399743
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 3fdf38f4d9d34f538f83e4d218f7a7dc
+run_name: skittish-bass-379
+run_uuid: 3fdf38f4d9d34f538f83e4d218f7a7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736711399666
+status: 3
+tags: []
+user_id: lenovo

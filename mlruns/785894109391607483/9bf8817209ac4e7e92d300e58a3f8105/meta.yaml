@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/9bf8817209ac4e7e92d300e58a3f8105/artifacts
+deleted_time: 1736707051910
+end_time: 1736706901811
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 9bf8817209ac4e7e92d300e58a3f8105
+run_name: beautiful-goat-176
+run_uuid: 9bf8817209ac4e7e92d300e58a3f8105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736706901686
+status: 3
+tags: []
+user_id: lenovo

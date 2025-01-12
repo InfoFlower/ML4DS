@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/f22afdfc8c134b9085bcf4fbd692649d/artifacts
+deleted_time: 1736706632813
+end_time: 1736692475606
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: f22afdfc8c134b9085bcf4fbd692649d
+run_name: kindly-turtle-711
+run_uuid: f22afdfc8c134b9085bcf4fbd692649d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736692475401
+status: 3
+tags: []
+user_id: lenovo

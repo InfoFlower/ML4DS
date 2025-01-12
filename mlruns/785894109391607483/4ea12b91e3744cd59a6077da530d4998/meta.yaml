@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/4ea12b91e3744cd59a6077da530d4998/artifacts
+deleted_time: 1736707432248
+end_time: 1736707275300
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 4ea12b91e3744cd59a6077da530d4998
+run_name: wistful-ant-504
+run_uuid: 4ea12b91e3744cd59a6077da530d4998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736707275166
+status: 3
+tags: []
+user_id: lenovo

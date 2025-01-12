@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/a8c3bac20f2f49cf9c20d452ce506285/artifacts
+end_time: 1736708011226
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: a8c3bac20f2f49cf9c20d452ce506285
+run_name: upbeat-penguin-540
+run_uuid: a8c3bac20f2f49cf9c20d452ce506285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736708011036
+status: 3
+tags: []
+user_id: lenovo

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/6e193a31f1c54f9ebe2a004091e46036/artifacts
+deleted_time: 1736689867238
 end_time: 1736621310149
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6e193a31f1c54f9ebe2a004091e46036
 run_name: charming-shad-954
 run_uuid: 6e193a31f1c54f9ebe2a004091e46036

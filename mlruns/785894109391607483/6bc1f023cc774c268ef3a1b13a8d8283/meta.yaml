@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/6bc1f023cc774c268ef3a1b13a8d8283/artifacts
+end_time: 1736712884231
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 6bc1f023cc774c268ef3a1b13a8d8283
+run_name: fortunate-crane-886
+run_uuid: 6bc1f023cc774c268ef3a1b13a8d8283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736712884128
+status: 3
+tags: []
+user_id: lenovo

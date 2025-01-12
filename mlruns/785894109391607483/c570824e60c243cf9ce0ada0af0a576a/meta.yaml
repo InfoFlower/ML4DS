@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/c570824e60c243cf9ce0ada0af0a576a/artifacts
+deleted_time: 1736689867158
 end_time: 1736623031258
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c570824e60c243cf9ce0ada0af0a576a
 run_name: beautiful-lynx-81
 run_uuid: c570824e60c243cf9ce0ada0af0a576a

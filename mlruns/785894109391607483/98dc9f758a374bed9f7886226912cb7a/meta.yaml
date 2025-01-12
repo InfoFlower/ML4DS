@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/98dc9f758a374bed9f7886226912cb7a/artifacts
+deleted_time: 1736692413793
+end_time: 1736691541153
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 98dc9f758a374bed9f7886226912cb7a
+run_name: resilient-bass-968
+run_uuid: 98dc9f758a374bed9f7886226912cb7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736691540980
+status: 3
+tags: []
+user_id: lenovo

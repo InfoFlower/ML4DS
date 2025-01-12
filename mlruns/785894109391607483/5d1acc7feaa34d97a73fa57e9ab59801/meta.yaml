@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/5d1acc7feaa34d97a73fa57e9ab59801/artifacts
+end_time: 1736709204365
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 5d1acc7feaa34d97a73fa57e9ab59801
+run_name: delicate-cat-318
+run_uuid: 5d1acc7feaa34d97a73fa57e9ab59801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736709204236
+status: 3
+tags: []
+user_id: lenovo

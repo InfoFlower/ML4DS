@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/370e8bbd983d4853add3f38fb3743325/artifacts
+deleted_time: 1736692413784
+end_time: 1736691504216
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 370e8bbd983d4853add3f38fb3743325
+run_name: redolent-steed-757
+run_uuid: 370e8bbd983d4853add3f38fb3743325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736691504101
+status: 3
+tags: []
+user_id: lenovo

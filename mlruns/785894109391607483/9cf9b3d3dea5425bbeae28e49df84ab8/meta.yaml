@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/9cf9b3d3dea5425bbeae28e49df84ab8/artifacts
+deleted_time: 1736689867188
 end_time: 1736623765140
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9cf9b3d3dea5425bbeae28e49df84ab8
 run_name: intrigued-trout-795
 run_uuid: 9cf9b3d3dea5425bbeae28e49df84ab8

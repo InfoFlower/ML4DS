@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/62606090f61f4f8a9f958ea1cfb877a4/artifacts
+deleted_time: 1736689867249
 end_time: 1736621645585
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 62606090f61f4f8a9f958ea1cfb877a4
 run_name: big-bass-856
 run_uuid: 62606090f61f4f8a9f958ea1cfb877a4

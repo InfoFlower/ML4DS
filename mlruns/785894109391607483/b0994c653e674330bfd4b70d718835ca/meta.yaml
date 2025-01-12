@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/b0994c653e674330bfd4b70d718835ca/artifacts
+deleted_time: 1736706632768
+end_time: 1736706570594
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: b0994c653e674330bfd4b70d718835ca
+run_name: handsome-owl-840
+run_uuid: b0994c653e674330bfd4b70d718835ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736706570465
+status: 3
+tags: []
+user_id: lenovo
