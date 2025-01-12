@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/8adeb91c803944fe9934c33857707449/artifacts
+end_time: 1736621656377
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 8adeb91c803944fe9934c33857707449
+run_name: omniscient-fowl-779
+run_uuid: 8adeb91c803944fe9934c33857707449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736621656298
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/b3b32afccd72481a84e0bdd9b6d0175d/artifacts
+deleted_time: 1736618592051
+end_time: 1736617963066
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: b3b32afccd72481a84e0bdd9b6d0175d
+run_name: enthused-eel-652
+run_uuid: b3b32afccd72481a84e0bdd9b6d0175d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736617962923
+status: 3
+tags: []
+user_id: lenovo

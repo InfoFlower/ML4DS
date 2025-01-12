@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/032798a9b7f44e99938efd9ecff70717/artifacts
+deleted_time: 1736618592017
+end_time: 1736618314875
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 032798a9b7f44e99938efd9ecff70717
+run_name: unleashed-shoat-614
+run_uuid: 032798a9b7f44e99938efd9ecff70717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736618314725
+status: 3
+tags: []
+user_id: lenovo

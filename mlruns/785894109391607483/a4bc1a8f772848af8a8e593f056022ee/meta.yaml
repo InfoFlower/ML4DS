@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/a4bc1a8f772848af8a8e593f056022ee/artifacts
+deleted_time: 1736618591966
+end_time: 1736617750359
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: a4bc1a8f772848af8a8e593f056022ee
+run_name: peaceful-fish-829
+run_uuid: a4bc1a8f772848af8a8e593f056022ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736617750225
+status: 3
+tags: []
+user_id: lenovo

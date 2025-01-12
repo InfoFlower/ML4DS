@@ -10,10 +10,8 @@ def proc_make_csv():
     lemmatizer = WordNetLemmatizer()
     stop_words = set(stopwords.words('english'))
     tagger=treetaggerwrapper.TreeTagger(TAGLANG="en", TAGDIR='TreeTagger', TAGPARFILE='english.par')
-
     directory = r'data\html'
     files = [f for f in os.listdir(directory) if os.path.isfile(os.path.join(directory, f))]
-
     for i in range(len(files)):
         f=open('data/html/'+files[i],"r")   
         textebrut = f.read()
@@ -30,23 +28,18 @@ def proc_make_csv():
         texte_lem = [mot.split("\t")[2] for mot in textes_tags if mot.split("\t")[2] != '@card@' and 'PRO' not in mot.split("\t")[1] and mot.split("\t")[2]!='avoir']
         texte_filtré = ' '.join(texte_lem)
         textevv.append(texte_filtré)
-
     motot={} 
     for txt in range(len(textevv)):
-    	for m in textevv[txt].split(' '):
-    		if m not in motot:
-    			motot[m]=[0]*nt
-    		motot[m][txt]+=1
-
+        for m in textevv[txt].split(' '):
+            if m not in motot: motot[m]=[0]*nt
+            motot[m][txt]+=1
     motex = {}
     for mot in motot:
         motex[mot] = [0]*nt   # chaque mot du dictionnaire est associé à une liste d'effectifs plutôt qu'à un effectif simple (en vue de la construction de la table lexicale)
-
     for i in range(nt):   
     	for mot in textevv[i].split():
     		if mot in motex.keys():
-    			motex[mot][i] += 1   # chaque mot est associé à son effectif dans chaque texte
-    
+                   motex[mot][i] += 1   # chaque mot est associé à son effectif dans chaque texte
     motexx={}
     compte=0
     for i in motex:
@@ -54,5 +47,4 @@ def proc_make_csv():
             motexx[i]=motex[i]
         else:
             compte+=1
-
     return pd.DataFrame(motexx,index=[i[:-4] for i in os.listdir('data/html')])

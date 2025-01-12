@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/880f6ba11bd748b5902a540701c9b741/artifacts
+deleted_time: 1736613186430
+end_time: 1736612908002
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 880f6ba11bd748b5902a540701c9b741
+run_name: gentle-bird-444
+run_uuid: 880f6ba11bd748b5902a540701c9b741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736612907885
+status: 3
+tags: []
+user_id: lenovo

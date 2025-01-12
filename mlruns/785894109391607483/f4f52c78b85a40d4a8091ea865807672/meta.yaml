@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/f4f52c78b85a40d4a8091ea865807672/artifacts
+end_time: 1736624157355
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: f4f52c78b85a40d4a8091ea865807672
+run_name: upset-newt-780
+run_uuid: f4f52c78b85a40d4a8091ea865807672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736624157257
+status: 3
+tags: []
+user_id: lenovo

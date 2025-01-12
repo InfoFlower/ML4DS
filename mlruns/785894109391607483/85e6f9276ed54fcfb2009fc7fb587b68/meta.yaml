@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/85e6f9276ed54fcfb2009fc7fb587b68/artifacts
+deleted_time: 1736613186473
+end_time: 1736612768176
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 85e6f9276ed54fcfb2009fc7fb587b68
+run_name: overjoyed-stoat-13
+run_uuid: 85e6f9276ed54fcfb2009fc7fb587b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736612768035
+status: 3
+tags: []
+user_id: lenovo

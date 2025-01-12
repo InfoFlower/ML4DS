@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/bc34dcf4c4a741f8a676a15bc9635864/artifacts
+deleted_time: 1736618591921
+end_time: 1736615614737
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: bc34dcf4c4a741f8a676a15bc9635864
+run_name: traveling-fish-119
+run_uuid: bc34dcf4c4a741f8a676a15bc9635864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736615614594
+status: 3
+tags: []
+user_id: lenovo

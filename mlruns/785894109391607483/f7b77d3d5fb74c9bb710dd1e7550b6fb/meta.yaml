@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/f7b77d3d5fb74c9bb710dd1e7550b6fb/artifacts
+end_time: 1736621298027
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: f7b77d3d5fb74c9bb710dd1e7550b6fb
+run_name: handsome-deer-771
+run_uuid: f7b77d3d5fb74c9bb710dd1e7550b6fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736621297889
+status: 3
+tags: []
+user_id: lenovo

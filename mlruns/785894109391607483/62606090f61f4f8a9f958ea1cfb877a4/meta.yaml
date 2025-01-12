@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/62606090f61f4f8a9f958ea1cfb877a4/artifacts
+end_time: 1736621645585
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 62606090f61f4f8a9f958ea1cfb877a4
+run_name: big-bass-856
+run_uuid: 62606090f61f4f8a9f958ea1cfb877a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736621645508
+status: 3
+tags: []
+user_id: lenovo

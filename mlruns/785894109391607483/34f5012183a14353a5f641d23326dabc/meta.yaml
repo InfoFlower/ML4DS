@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/34f5012183a14353a5f641d23326dabc/artifacts
+deleted_time: 1736618592053
+end_time: 1736617822258
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 34f5012183a14353a5f641d23326dabc
+run_name: sedate-shoat-182
+run_uuid: 34f5012183a14353a5f641d23326dabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736617822157
+status: 3
+tags: []
+user_id: lenovo

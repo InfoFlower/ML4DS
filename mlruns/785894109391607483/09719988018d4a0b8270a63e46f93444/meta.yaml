@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/09719988018d4a0b8270a63e46f93444/artifacts
+end_time: 1736622027421
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 09719988018d4a0b8270a63e46f93444
+run_name: defiant-conch-103
+run_uuid: 09719988018d4a0b8270a63e46f93444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736622027251
+status: 3
+tags: []
+user_id: lenovo

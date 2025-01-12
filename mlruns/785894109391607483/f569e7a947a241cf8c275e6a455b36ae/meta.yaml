@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/f569e7a947a241cf8c275e6a455b36ae/artifacts
+deleted_time: 1736618591896
+end_time: 1736615297433
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: f569e7a947a241cf8c275e6a455b36ae
+run_name: traveling-seal-23
+run_uuid: f569e7a947a241cf8c275e6a455b36ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736615297334
+status: 3
+tags: []
+user_id: lenovo

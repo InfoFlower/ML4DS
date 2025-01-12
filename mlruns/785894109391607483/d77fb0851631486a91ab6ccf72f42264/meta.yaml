@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/d77fb0851631486a91ab6ccf72f42264/artifacts
+deleted_time: 1736618592021
+end_time: 1736618138390
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: d77fb0851631486a91ab6ccf72f42264
+run_name: auspicious-ram-228
+run_uuid: d77fb0851631486a91ab6ccf72f42264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736618138255
+status: 3
+tags: []
+user_id: lenovo

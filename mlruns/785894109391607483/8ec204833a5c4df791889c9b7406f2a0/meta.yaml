@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/8ec204833a5c4df791889c9b7406f2a0/artifacts
+deleted_time: 1736614227190
+end_time: 1736613698207
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 8ec204833a5c4df791889c9b7406f2a0
+run_name: monumental-vole-258
+run_uuid: 8ec204833a5c4df791889c9b7406f2a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736613698085
+status: 3
+tags: []
+user_id: lenovo

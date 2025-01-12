@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/5bf0b457b81d4c989ba090c1373c660f/artifacts
+end_time: 1736615303600
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 5bf0b457b81d4c989ba090c1373c660f
+run_name: 0.1_MLP Regressor_2025_01_11
+run_uuid: 5bf0b457b81d4c989ba090c1373c660f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736615297485
+status: 3
+tags: []
+user_id: lenovo

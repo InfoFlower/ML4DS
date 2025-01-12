@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/0c9d432cbd1f4880b987757ded7426a3/artifacts
+deleted_time: 1736618591895
+end_time: 1736615477058
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 0c9d432cbd1f4880b987757ded7426a3
+run_name: righteous-mare-258
+run_uuid: 0c9d432cbd1f4880b987757ded7426a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736615476918
+status: 3
+tags: []
+user_id: lenovo

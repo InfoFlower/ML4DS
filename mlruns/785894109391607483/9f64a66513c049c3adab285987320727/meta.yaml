@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/9f64a66513c049c3adab285987320727/artifacts
+deleted_time: 1736618591937
+end_time: 1736616048747
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 9f64a66513c049c3adab285987320727
+run_name: powerful-smelt-783
+run_uuid: 9f64a66513c049c3adab285987320727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736616048643
+status: 3
+tags: []
+user_id: lenovo

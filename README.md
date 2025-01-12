@@ -1,5 +1,6 @@
 # Présentation du sujet de Machine Learning for Data Sciences
-Utilisation des données web et données marché pour prédire l'évolution du prix du bitcoin
+Utilisation des données web et données marché pour prédire l'évolution du prix du bitcoin.
+Merci de cliquer sur les différents docs pour y accéder.
 
 ## Sommaire
 

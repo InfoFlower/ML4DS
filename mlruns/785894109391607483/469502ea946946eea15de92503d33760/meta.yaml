@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/469502ea946946eea15de92503d33760/artifacts
+deleted_time: 1736618591853
+end_time: 1736614300537
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 469502ea946946eea15de92503d33760
+run_name: sincere-roo-52
+run_uuid: 469502ea946946eea15de92503d33760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736614300431
+status: 3
+tags: []
+user_id: lenovo

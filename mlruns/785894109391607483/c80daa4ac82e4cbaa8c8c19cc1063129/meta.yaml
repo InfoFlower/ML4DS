@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/c80daa4ac82e4cbaa8c8c19cc1063129/artifacts
+deleted_time: 1736618591879
+end_time: 1736614362968
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: c80daa4ac82e4cbaa8c8c19cc1063129
+run_name: rare-lynx-104
+run_uuid: c80daa4ac82e4cbaa8c8c19cc1063129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736614362842
+status: 3
+tags: []
+user_id: lenovo

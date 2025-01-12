@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/aa7006e396694ca3ab92942e3dcb63a9/artifacts
+deleted_time: 1736618591960
+end_time: 1736617494188
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: aa7006e396694ca3ab92942e3dcb63a9
+run_name: gifted-mink-581
+run_uuid: aa7006e396694ca3ab92942e3dcb63a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736617494101
+status: 3
+tags: []
+user_id: lenovo
