@@ -1,5 +1,5 @@
 # Exploration et traitement des données
-1. [Charactéristiques](#characteristiques-et-pretraitements)
+1. [Charactéristiques](#charactéristiques-et-prétraitements)
 2. [Avis de l'IA](#retour-ia)
 3. [Analyse et modification](#analyse-et-modification)
 ## Charactéristiques et prétraitements
@@ -85,4 +85,6 @@ Demandez à l’IA de critiquer constructivement votre approche.
     Il serait utile de valider la jointure en vérifiant la cohérence des données combinées. Par exemple, vérifier que les dates correspondent bien entre les deux jeux de données.
 
 ## Analyse et modification
-Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.
+**Proposez une analyse du résultat et, le cas échéant, modifiez votre travail en fonction.**
+Le résultat permettant de mettre en lumière certains manquemant de la docs. Les données manquantes seront soit supprimé si trop importante soit seront imputées grâces à un KNN.
+Certaines améliorations potentielles sont superflues (gestion des synonymes)
