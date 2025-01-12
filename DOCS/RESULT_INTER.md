@@ -51,7 +51,9 @@ Dans l'ensemble :
     - 'Precision': 0.8274397939842713
       Ici on a de très bonne metrics, certainement dû à un sur-entrainement. Pourtant voici les hyperparamêtre : criterion='entropy', max_depth=3, min_samples_leaf=4. Ils devraient pourtant permettre de ne pas trop over-fitter les données.
 **Voici la visualisation des prédictions des modèles regressors :**
+
 ![image](https://github.com/user-attachments/assets/1c50c06b-9c16-4810-93bf-b9c71829dba7)
+
 Comme on le vois les prédictions des modèles regressors ne sont pas excellente bien que l'arbre de décision s'approche bien plus de la courbe. On peut imaginer qu'il y a un peu d'overfitting dans tout ça malgrès les reglages des hyperparamêtres.
 
 ## Analyse des résultats par l'IA
