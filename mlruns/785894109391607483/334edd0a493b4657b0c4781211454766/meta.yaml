@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/334edd0a493b4657b0c4781211454766/artifacts
+end_time: 1736781011540
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 334edd0a493b4657b0c4781211454766
+run_name: unequaled-goat-980
+run_uuid: 334edd0a493b4657b0c4781211454766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736781011382
+status: 3
+tags: []
+user_id: lenovo

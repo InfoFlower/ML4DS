@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/6c7a2242f4c64cb1800aec47ba24a5d7/artifacts
+deleted_time: 1736775043820
 end_time: 1736713312313
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6c7a2242f4c64cb1800aec47ba24a5d7
 run_name: monumental-tern-466
 run_uuid: 6c7a2242f4c64cb1800aec47ba24a5d7

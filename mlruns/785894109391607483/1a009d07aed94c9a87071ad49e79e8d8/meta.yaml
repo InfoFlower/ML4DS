@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/1a009d07aed94c9a87071ad49e79e8d8/artifacts
+end_time: 1736776842476
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 1a009d07aed94c9a87071ad49e79e8d8
+run_name: invincible-loon-769
+run_uuid: 1a009d07aed94c9a87071ad49e79e8d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736776842413
+status: 3
+tags: []
+user_id: lenovo

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/96fea38387b1491ea4942621c5cf903a/artifacts
+deleted_time: 1736775043889
 end_time: 1736707998303
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 96fea38387b1491ea4942621c5cf903a
 run_name: fortunate-wolf-120
 run_uuid: 96fea38387b1491ea4942621c5cf903a

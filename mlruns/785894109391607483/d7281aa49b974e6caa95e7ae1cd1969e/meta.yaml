@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/d7281aa49b974e6caa95e7ae1cd1969e/artifacts
+deleted_time: 1736775043949
 end_time: 1736712615023
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d7281aa49b974e6caa95e7ae1cd1969e
 run_name: angry-fowl-187
 run_uuid: d7281aa49b974e6caa95e7ae1cd1969e

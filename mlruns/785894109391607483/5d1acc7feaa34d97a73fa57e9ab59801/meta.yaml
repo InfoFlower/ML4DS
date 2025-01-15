@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/5d1acc7feaa34d97a73fa57e9ab59801/artifacts
+deleted_time: 1736775043898
 end_time: 1736709204365
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5d1acc7feaa34d97a73fa57e9ab59801
 run_name: delicate-cat-318
 run_uuid: 5d1acc7feaa34d97a73fa57e9ab59801

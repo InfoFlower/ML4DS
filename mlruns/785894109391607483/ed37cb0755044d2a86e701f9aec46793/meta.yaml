@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/ed37cb0755044d2a86e701f9aec46793/artifacts
+deleted_time: 1736775043794
 end_time: 1736709449312
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ed37cb0755044d2a86e701f9aec46793
 run_name: sedate-squid-892
 run_uuid: ed37cb0755044d2a86e701f9aec46793

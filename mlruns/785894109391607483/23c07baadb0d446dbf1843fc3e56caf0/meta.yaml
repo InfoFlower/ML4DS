@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/23c07baadb0d446dbf1843fc3e56caf0/artifacts
+deleted_time: 1736775043743
 end_time: 1736711265537
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 23c07baadb0d446dbf1843fc3e56caf0
 run_name: upset-trout-132
 run_uuid: 23c07baadb0d446dbf1843fc3e56caf0

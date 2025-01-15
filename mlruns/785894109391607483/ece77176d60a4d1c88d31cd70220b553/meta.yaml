@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/ece77176d60a4d1c88d31cd70220b553/artifacts
+deleted_time: 1736775043847
 end_time: 1736713322272
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ece77176d60a4d1c88d31cd70220b553
 run_name: legendary-hound-797
 run_uuid: ece77176d60a4d1c88d31cd70220b553

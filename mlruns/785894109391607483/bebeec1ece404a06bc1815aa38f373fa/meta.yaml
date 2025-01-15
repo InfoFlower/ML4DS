@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/bebeec1ece404a06bc1815aa38f373fa/artifacts
+end_time: 1736775762003
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: bebeec1ece404a06bc1815aa38f373fa
+run_name: sedate-fish-465
+run_uuid: bebeec1ece404a06bc1815aa38f373fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736775761925
+status: 3
+tags: []
+user_id: lenovo

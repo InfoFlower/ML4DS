@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/1153676be4704effb3e410eb053bb019/artifacts
+end_time: 1736775776434
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: 1153676be4704effb3e410eb053bb019
+run_name: ambitious-snail-496
+run_uuid: 1153676be4704effb3e410eb053bb019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736775776368
+status: 3
+tags: []
+user_id: lenovo

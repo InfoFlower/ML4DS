@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/b725baf75b9341bdb743781a63b17f47/artifacts
+end_time: 1736781914866
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: active
+run_id: b725baf75b9341bdb743781a63b17f47
+run_name: adaptable-seal-864
+run_uuid: b725baf75b9341bdb743781a63b17f47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736781914650
+status: 3
+tags: []
+user_id: lenovo

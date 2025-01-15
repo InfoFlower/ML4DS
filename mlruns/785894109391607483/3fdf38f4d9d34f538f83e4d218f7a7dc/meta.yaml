@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/3fdf38f4d9d34f538f83e4d218f7a7dc/artifacts
+deleted_time: 1736775043781
 end_time: 1736711399743
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3fdf38f4d9d34f538f83e4d218f7a7dc
 run_name: skittish-bass-379
 run_uuid: 3fdf38f4d9d34f538f83e4d218f7a7dc

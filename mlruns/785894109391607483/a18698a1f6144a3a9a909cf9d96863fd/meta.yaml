@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/a18698a1f6144a3a9a909cf9d96863fd/artifacts
+deleted_time: 1736775043775
 end_time: 1736711469620
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a18698a1f6144a3a9a909cf9d96863fd
 run_name: thundering-cat-227
 run_uuid: a18698a1f6144a3a9a909cf9d96863fd

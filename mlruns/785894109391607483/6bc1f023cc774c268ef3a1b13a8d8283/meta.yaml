@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/6bc1f023cc774c268ef3a1b13a8d8283/artifacts
+deleted_time: 1736775043872
 end_time: 1736712884231
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6bc1f023cc774c268ef3a1b13a8d8283
 run_name: fortunate-crane-886
 run_uuid: 6bc1f023cc774c268ef3a1b13a8d8283

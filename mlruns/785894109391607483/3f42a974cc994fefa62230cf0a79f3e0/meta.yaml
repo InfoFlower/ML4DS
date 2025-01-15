@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/3f42a974cc994fefa62230cf0a79f3e0/artifacts
+deleted_time: 1736775043863
 end_time: 1736709459493
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3f42a974cc994fefa62230cf0a79f3e0
 run_name: handsome-bug-401
 run_uuid: 3f42a974cc994fefa62230cf0a79f3e0

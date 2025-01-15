@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/bbba0482ac994ec7adb3d3e4b8d96138/artifacts
+deleted_time: 1736775043747
 end_time: 1736707733172
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bbba0482ac994ec7adb3d3e4b8d96138
 run_name: zealous-hog-920
 run_uuid: bbba0482ac994ec7adb3d3e4b8d96138

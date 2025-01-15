@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/447e955534b44519b140ae8970e752ad/artifacts
+deleted_time: 1736775043811
 end_time: 1736712628681
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 447e955534b44519b140ae8970e752ad
 run_name: rare-croc-390
 run_uuid: 447e955534b44519b140ae8970e752ad

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/8e703766b147402797824b4abb764488/artifacts
+deleted_time: 1736775043853
 end_time: 1736709164812
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8e703766b147402797824b4abb764488
 run_name: invincible-shark-213
 run_uuid: 8e703766b147402797824b4abb764488

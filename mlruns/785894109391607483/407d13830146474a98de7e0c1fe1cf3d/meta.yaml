@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/407d13830146474a98de7e0c1fe1cf3d/artifacts
+deleted_time: 1736775043915
 end_time: 1736713328539
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 407d13830146474a98de7e0c1fe1cf3d
 run_name: classy-eel-894
 run_uuid: 407d13830146474a98de7e0c1fe1cf3d

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/a71429fc83ce453f9e7a27a50a1ba743/artifacts
+deleted_time: 1736775043746
 end_time: 1736707717003
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a71429fc83ce453f9e7a27a50a1ba743
 run_name: youthful-mouse-110
 run_uuid: a71429fc83ce453f9e7a27a50a1ba743
