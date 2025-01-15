@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/dd6d7a1b28134bb19827ab420a758575/artifacts
+deleted_time: 1736963063682
 end_time: 1736781944373
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: dd6d7a1b28134bb19827ab420a758575
 run_name: nosy-whale-221
 run_uuid: dd6d7a1b28134bb19827ab420a758575

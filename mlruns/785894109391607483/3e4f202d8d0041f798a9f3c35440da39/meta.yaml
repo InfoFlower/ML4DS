@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/3e4f202d8d0041f798a9f3c35440da39/artifacts
+deleted_time: 1736963063982
 end_time: 1736712623511
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3e4f202d8d0041f798a9f3c35440da39
 run_name: 0.1_MLP Regressor_2025_01_12
 run_uuid: 3e4f202d8d0041f798a9f3c35440da39

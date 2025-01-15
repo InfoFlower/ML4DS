@@ -91,7 +91,7 @@ class model_maker_tester:
         else : ret = X,y
         return ret
     
-    def __call__(self,model,model_name,data,version,param_grid,experience_name='Velib',flg_first=False):
+    def __call__(self,model,model_name,data,version,param_grid,experience_name='Velib',flg_first=False,flg_train_test=False):
         """
         Fonction permettant l'entrainement, la prédiction et le score d'un modèle
 
@@ -109,13 +109,12 @@ class model_maker_tester:
             Model (pkl): Model utilisé ou entrainé
         """
         logging.debug(f'DATA : {data}')
-        X_train, X_test, y_train, y_test = self.make_dummies_X_y(data,flg_train_test=True)
-        X,y=self.make_dummies_X_y(data=data,flg_train_test=False)
-        logging.debug(f'Data to fit or predict : {X,y,X_train,X_test,y_train,y_test}')
+        X,y=self.make_dummies_X_y(data,flg_train_test=False)
+        logging.debug(f'Data to fit or predict : {X,y}')
         if flg_first:
             logging.info('FITTING DATA')
             grid_search = GridSearchCV(model, param_grid, cv=5, scoring='accuracy',n_jobs=-1)
-            grid_search.fit(X_train, y_train)
+            grid_search.fit(X, y)
             model = grid_search
             signature=infer_signature(X,model.predict(X))
             log_model_version(model.best_estimator_,model_name,signature,data,scores=None,hyperparam_value=model.get_params(),exprience_name=experience_name,version=version)

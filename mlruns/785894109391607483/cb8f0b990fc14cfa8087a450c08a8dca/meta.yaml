@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/cb8f0b990fc14cfa8087a450c08a8dca/artifacts
+deleted_time: 1736963063617
+end_time: 1736960853059
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: cb8f0b990fc14cfa8087a450c08a8dca
+run_name: youthful-koi-469
+run_uuid: cb8f0b990fc14cfa8087a450c08a8dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736960852959
+status: 3
+tags: []
+user_id: lenovo

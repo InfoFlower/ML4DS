@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/606429773a9f41ce856d8e8ab858a35f/artifacts
+deleted_time: 1736963063858
 end_time: 1736776396298
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 606429773a9f41ce856d8e8ab858a35f
 run_name: tasteful-sow-433
 run_uuid: 606429773a9f41ce856d8e8ab858a35f

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/e640a3d9b80d471db2e766c60fc74dd8/artifacts
+deleted_time: 1736963063595
+end_time: 1736960941615
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: e640a3d9b80d471db2e766c60fc74dd8
+run_name: 2.3_MLP Classifier_with_engineering_2025_01_15
+run_uuid: e640a3d9b80d471db2e766c60fc74dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736960936271
+status: 3
+tags: []
+user_id: lenovo

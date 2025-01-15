@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/0d2b8b66a59941fb9c9aa7543b48d0fc/artifacts
+deleted_time: 1736963063670
 end_time: 1736781959889
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0d2b8b66a59941fb9c9aa7543b48d0fc
 run_name: polite-wolf-699
 run_uuid: 0d2b8b66a59941fb9c9aa7543b48d0fc

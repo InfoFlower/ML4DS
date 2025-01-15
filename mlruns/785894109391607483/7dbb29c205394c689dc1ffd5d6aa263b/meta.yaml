@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/7dbb29c205394c689dc1ffd5d6aa263b/artifacts
+deleted_time: 1736963063818
 end_time: 1736776831972
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7dbb29c205394c689dc1ffd5d6aa263b
 run_name: fun-squid-992
 run_uuid: 7dbb29c205394c689dc1ffd5d6aa263b

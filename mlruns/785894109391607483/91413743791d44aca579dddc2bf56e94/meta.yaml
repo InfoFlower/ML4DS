@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/91413743791d44aca579dddc2bf56e94/artifacts
+deleted_time: 1736963063722
 end_time: 1736781887929
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 91413743791d44aca579dddc2bf56e94
 run_name: colorful-pig-599
 run_uuid: 91413743791d44aca579dddc2bf56e94

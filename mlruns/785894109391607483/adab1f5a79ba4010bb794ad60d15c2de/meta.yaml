@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/adab1f5a79ba4010bb794ad60d15c2de/artifacts
+deleted_time: 1736963063532
+end_time: 1736962252935
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: adab1f5a79ba4010bb794ad60d15c2de
+run_name: loud-ape-147
+run_uuid: adab1f5a79ba4010bb794ad60d15c2de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736962252719
+status: 3
+tags: []
+user_id: lenovo

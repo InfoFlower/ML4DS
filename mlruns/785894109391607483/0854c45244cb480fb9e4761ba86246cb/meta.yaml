@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/0854c45244cb480fb9e4761ba86246cb/artifacts
+deleted_time: 1736963063596
+end_time: 1736961365785
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 0854c45244cb480fb9e4761ba86246cb
+run_name: upbeat-stoat-295
+run_uuid: 0854c45244cb480fb9e4761ba86246cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736961365685
+status: 3
+tags: []
+user_id: lenovo

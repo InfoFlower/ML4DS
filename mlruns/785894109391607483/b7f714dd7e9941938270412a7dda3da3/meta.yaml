@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/b7f714dd7e9941938270412a7dda3da3/artifacts
+deleted_time: 1736963064005
 end_time: 1736711269969
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b7f714dd7e9941938270412a7dda3da3
 run_name: 2.3_MLP Classifier_with_engineering_2025_01_12
 run_uuid: b7f714dd7e9941938270412a7dda3da3

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/1a009d07aed94c9a87071ad49e79e8d8/artifacts
+deleted_time: 1736963063793
 end_time: 1736776842476
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1a009d07aed94c9a87071ad49e79e8d8
 run_name: invincible-loon-769
 run_uuid: 1a009d07aed94c9a87071ad49e79e8d8

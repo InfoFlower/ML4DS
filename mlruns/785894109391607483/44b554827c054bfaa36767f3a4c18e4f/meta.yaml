@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/44b554827c054bfaa36767f3a4c18e4f/artifacts
+deleted_time: 1736963063907
 end_time: 1736775417963
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 44b554827c054bfaa36767f3a4c18e4f
 run_name: receptive-shoat-593
 run_uuid: 44b554827c054bfaa36767f3a4c18e4f

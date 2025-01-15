@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/491f7aabec2845799c952b385c011649/artifacts
+deleted_time: 1736963063495
+end_time: 1736962760056
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: 491f7aabec2845799c952b385c011649
+run_name: kindly-ram-808
+run_uuid: 491f7aabec2845799c952b385c011649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736962759823
+status: 3
+tags: []
+user_id: lenovo

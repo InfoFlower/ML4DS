@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/f0732a34152644e290eddb214b409e68/artifacts
+deleted_time: 1736963063765
 end_time: 1736781379267
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f0732a34152644e290eddb214b409e68
 run_name: adorable-doe-722
 run_uuid: f0732a34152644e290eddb214b409e68

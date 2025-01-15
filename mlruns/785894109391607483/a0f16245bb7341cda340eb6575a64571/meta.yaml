@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/a0f16245bb7341cda340eb6575a64571/artifacts
+deleted_time: 1736963063636
+end_time: 1736960072625
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: a0f16245bb7341cda340eb6575a64571
+run_name: enchanting-moose-181
+run_uuid: a0f16245bb7341cda340eb6575a64571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736960072486
+status: 3
+tags: []
+user_id: lenovo

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/af653a2bce71426fbabf008ded74cf45/artifacts
+deleted_time: 1736963118095
 end_time: 1736707345476
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: af653a2bce71426fbabf008ded74cf45
 run_name: 2.5_Decision_tree_regressor_engineered_2025_01_12
 run_uuid: af653a2bce71426fbabf008ded74cf45

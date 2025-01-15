@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/785894109391607483/bebeec1ece404a06bc1815aa38f373fa/artifacts
+deleted_time: 1736963063891
 end_time: 1736775762003
 entry_point_name: ''
 experiment_id: '785894109391607483'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bebeec1ece404a06bc1815aa38f373fa
 run_name: sedate-fish-465
 run_uuid: bebeec1ece404a06bc1815aa38f373fa

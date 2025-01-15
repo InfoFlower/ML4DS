@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/fa5ffc01fc4342debc129dc3c4d7ae18/artifacts
+deleted_time: 1736963063580
+end_time: 1736961378650
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: fa5ffc01fc4342debc129dc3c4d7ae18
+run_name: dazzling-sponge-882
+run_uuid: fa5ffc01fc4342debc129dc3c4d7ae18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736961378475
+status: 3
+tags: []
+user_id: lenovo

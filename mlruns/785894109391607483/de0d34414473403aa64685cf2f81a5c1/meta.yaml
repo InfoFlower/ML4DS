@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/785894109391607483/de0d34414473403aa64685cf2f81a5c1/artifacts
+deleted_time: 1736963063527
+end_time: 1736962236922
+entry_point_name: ''
+experiment_id: '785894109391607483'
+lifecycle_stage: deleted
+run_id: de0d34414473403aa64685cf2f81a5c1
+run_name: blushing-bee-35
+run_uuid: de0d34414473403aa64685cf2f81a5c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736962236717
+status: 3
+tags: []
+user_id: lenovo
