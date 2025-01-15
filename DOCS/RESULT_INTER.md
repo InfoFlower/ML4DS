@@ -70,9 +70,9 @@ Comme on le vois les prédictions des modèles regressors ne sont pas excellente
 ## Analyse des résultats par l'IA
 **Demandez à l’IA une analyse similaire.**
 
-## Réseau de Neurones
+### Réseau de Neurones
 
-### Classifier
+#### Classifier
 
 - **R2** : -0.231
 - **RMSE** : 0.555
@@ -80,14 +80,14 @@ Comme on le vois les prédictions des modèles regressors ne sont pas excellente
 - **Precision** : 0.692
 - **f1_score** : 0.489
 
-### Regressor
+#### Regressor
 
 - **R2** : 0.464
 - **RMSE** : 0.162
 - **MAE** : 0.130
 - **Precision** : 0.464
 
-### Interprétation des Métriques
+#### Interprétation des Métriques
 
 1. **R2 (Coefficient de Détermination)** :
    - **Classifier** : -0.231
@@ -117,12 +117,12 @@ Comme on le vois les prédictions des modèles regressors ne sont pas excellente
    - **Classifier** : 0.489
      - Un f1_score de 0.489 indique un équilibre modéré entre la précision et le rappel, mais reste insuffisant pour des prédictions précises.
 
-## Modèle Logit
+### Modèle Logit
 
 - **Precision** : 0.716
 - **f1_score** : 0.669
 
-### Interprétation des Métriques
+#### Interprétation des Métriques
 
 1. **Precision** :
    - Une précision de 0.716 indique que le modèle a une capacité modérée à prédire correctement les classes positives, légèrement meilleure que le réseau de neurones.
@@ -130,23 +130,23 @@ Comme on le vois les prédictions des modèles regressors ne sont pas excellente
 2. **f1_score** :
    - Un f1_score de 0.669 montre un équilibre modéré entre la précision et le rappel, légèrement meilleur que le réseau de neurones mais encore insuffisant pour des prédictions précises.
 
-## Modèles de Type Decision Tree
+### Modèles de Type Decision Tree
 
-### Regressor
+#### Regressor
 
 - **R2** : 0.827
 - **RMSE** : 0.095
 - **MAE** : 0.062
 - **Precision** : 0.827
 
-### Classifier
+#### Classifier
 
 - **R2** : 0.103
 - **RMSE** : 0.473
 - **MAE** : 0.224
 - **Precision** : 0.776
 
-### Interprétation des Métriques
+#### Interprétation des Métriques
 
 1. **R2 (Coefficient de Détermination)** :
    - **Regressor** : 0.827
@@ -172,7 +172,7 @@ Comme on le vois les prédictions des modèles regressors ne sont pas excellente
    - **Classifier** : 0.776
      - Une précision de 0.776 montre que le modèle a une capacité très bonne à prédire correctement les classes positives.
 
-## Conclusion
+### Conclusion
 
 Les modèles de type Decision Tree semblent être les plus performants pour la prédiction du prix du Bitcoin, avec des résultats particulièrement impressionnants pour le regressor. Le modèle Logit offre des performances moyennes mais reste supérieur à un réseau de neurones, qui n'a pas réussi à généraliser correctement en raison du peu de données disponibles. Pour améliorer les performances, il serait bénéfique d'augmenter la quantité de données d'entraînement et d'explorer des techniques de régularisation pour éviter le sur-entraînement des modèles Decision Tree.
 
